@@ -1,0 +1,8 @@
+vendor/
+.idea/
+bin/
+tmp/
+.env
+env.json
+main
+SitePoller
